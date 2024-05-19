@@ -1,0 +1,40 @@
+@media only screen and (max-width:900px) {
+    .navbar {
+        height: 400px;
+        position: sticky;
+    }
+
+    #search {
+        width: 100%;
+    }
+
+    .box-main {
+        flex-direction: column-reverse;
+        max-width: 100%;
+    }
+
+
+    .h-nav-resp {
+        height: 70px;
+    }
+
+    .section {
+        flex-direction: column-reverse;
+    }
+
+    .text-big {
+        text-align: center;
+    }
+
+    .text-small {
+        text-align: center;
+    }
+
+    .buttons {
+        text-align: center;
+    }
+
+    .logo {
+        width: 10%;
+    }
+}
